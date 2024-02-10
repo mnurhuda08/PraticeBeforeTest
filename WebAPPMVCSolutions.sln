@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basic", "Basic", "{01BDB218-D350-47B4-A442-A7AEA4E6305A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPPMVC.Base", "WebAPPMVC.Base\WebAPPMVC.Base.csproj", "{870AAF2D-E851-4C91-8617-C93809B67B08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{870AAF2D-E851-4C91-8617-C93809B67B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{870AAF2D-E851-4C91-8617-C93809B67B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{870AAF2D-E851-4C91-8617-C93809B67B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{870AAF2D-E851-4C91-8617-C93809B67B08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{870AAF2D-E851-4C91-8617-C93809B67B08} = {01BDB218-D350-47B4-A442-A7AEA4E6305A}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B296445E-61C4-49E2-9D71-2249CB085C7F}
+	EndGlobalSection
+EndGlobal
